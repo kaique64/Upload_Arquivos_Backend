@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "filesize": "^6.1.0",
+    "lodash": "^4.17.20",
+    "react-circular-progressbar": "^2.0.3",
+    "react-dropzone": "^11.3.0",
+    "react-icons": "^4.1.0",
+    "styled-components": "^5.2.1"
+  }
+}
